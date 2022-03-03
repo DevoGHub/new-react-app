@@ -1,6 +1,6 @@
 import './App.css';
 
-import Component1 from './component1/Component1';
+import Component1 from './component1/Component1.tsx';
 
 import React from 'react';
 
